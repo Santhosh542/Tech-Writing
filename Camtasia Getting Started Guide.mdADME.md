@@ -1,8 +1,9 @@
+# Welcome to Camtasia Studio Getting Started Guide
+
 ![Intro pic](https://user-images.githubusercontent.com/115913719/198844797-d2bc900a-f27a-4231-a3a0-2f597d569b16.PNG)
 
 **Disclaimer**: This document has been created only for reference purposes using existing Google data.
-# Welcome
-## Camtasia Studio Getting Started Guide
+## Camtasia Studio
 * It is one of the most popular software apps on the internet.
 * It offers precise video representation of desktop activities as well as superior file compression.
 
