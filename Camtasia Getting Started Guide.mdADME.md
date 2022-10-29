@@ -50,7 +50,7 @@ If you wish to uninstall any previous versions of Camtasia, follow the steps [he
 
 7. If you click on the Options you can customize the installation as shown below.
 ![Installation 7](https://user-images.githubusercontent.com/115913719/198845570-bfdf37ba-f422-4e26-8b62-0ee8e477c834.PNG)
-## Open Camtasia on Windows 10
+## How to Open Camtasia on Windows 10
 
 1. Click on the **Start** button and type the Camtasia.
 
@@ -154,7 +154,7 @@ You may need to follow the below order to get good output.
 5. Add voice narration if required.
 6. Add title clips and transitions.
 7. Add other effects such as callouts, captions, and cursor effects.
-## Camtasia Studio - Export Your First Video
+## Camtasia Studio - How to Export Your First Video
 1. Click the **Export button** and select **Local File** from the options.
 ![Export 1](https://user-images.githubusercontent.com/115913719/198846720-9bce6da1-483a-48c0-9fbb-5e6506b09a61.PNG)
 
