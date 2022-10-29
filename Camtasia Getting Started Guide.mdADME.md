@@ -20,7 +20,7 @@ This *Getting Started Guide* helps you to learn about basic concepts for using C
 This guide is intended to provide you with a thorough introduction to Camtasia Studio.
 
 Please refer to the [Camtasia Studio Online Help file](https://www.techsmith.com/learn/tutorials/camtasia/) for a detailed explanation of all features.
-## How to Install Camtasia on Windows
+## How to Install Camtasia on Windows 10
 **Note**: Installing the latest version of Camtasia does not replace the prior version, and you can have many versions installed.
 
 If you wish to uninstall any previous versions of Camtasia, follow the steps [here](https://support.techsmith.com/hc/en-us/articles/203730438).
