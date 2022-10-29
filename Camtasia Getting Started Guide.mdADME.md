@@ -179,8 +179,3 @@ To change the type of output destination, select another option from the dropdow
 * [Camtasia Studio Library](http://www.techsmith.com/camtasia-library-media.html).
 * [Camtasia Studio Technical Support](support.techsmith.com).
 * [Techsmith Camtasia Studio Blogs](http://blogs.techsmith.com).
-
-
-
-
-
