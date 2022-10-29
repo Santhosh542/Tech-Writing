@@ -61,7 +61,7 @@ If you wish to uninstall any previous versions of Camtasia, follow the steps [he
 ## Camtasia Overview
 **Record** - Record anything on your screen.
 
-**Edit** - Arrange and edit clips on the timeline in Camtasia Editor to build your video. Import pictures, recording files, video clips, and audio to add to the timeline.
+**Edit** - Arrange and edit clips on the timeline in Camtasia Editor to create your video. Import pictures, recording files, video clips, and audio to add to the timeline.
 
 **Share** - Select from available platforms that are optimized for your popular distribution channels.
 * The Web
@@ -104,7 +104,7 @@ Camtasia saves all recordings in TREC format and it contains the following,
 * Keystroke callouts
 * Audio from a microphone, system audio
 * Marker data
-## Camtasia Studio - Edit & Add Effects to Your Video
+## Camtasia Studio - How to Edit & Add Effects to Your Video
 
 ![Edit 1](https://user-images.githubusercontent.com/115913719/198846231-447c1c57-f0e1-40f8-803e-8d41f6ea5df0.PNG)
 
@@ -148,13 +148,13 @@ To do that, **Select File** > **Import Media**
 You may need to follow the below order to get good output.
 1. Import all the media files( Images, Videos, and Audio) on the timeline.
 2. Apply animations to grab the viewers’ attention.
-3. Make basic edits to the clips on the timeline.
+3. Make required edits to the clips on the timeline.
 4. Edit the audio.
 5. Add voice narration if required.
 6. Add title clips and transitions.
 7. Add other effects such as callouts, captions, and cursor effects.
 ## Camtasia Studio - Export Your First Video
-1. Click the **Export button** and select **Local File**.
+1. Click the **Export button** and select **Local File** from the options.
 ![Export 1](https://user-images.githubusercontent.com/115913719/198846720-9bce6da1-483a-48c0-9fbb-5e6506b09a61.PNG)
 
 2. The Production wizard appears on the screen. The default setting is already selected based on the recording dimensions and content on the timeline.
