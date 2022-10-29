@@ -58,7 +58,7 @@ If you wish to uninstall any previous versions of Camtasia, follow the steps [he
 2. Click on the Camtasia application to start working on it.
 
 ![Open 2](https://user-images.githubusercontent.com/115913719/198845731-6387fa2d-3956-433b-a3cc-8554857ac5af.PNG)
-### Camtasia Overview
+## Camtasia Overview
 **Record** - Record anything on your screen.
 **Edit** - Arrange and edit clips on the timeline in Camtasia Editor to build your video. Import pictures, recording files, video clips, and audio to add to the timeline.
 **Share** - Select from available platforms that are optimized for your popular distribution channels.
