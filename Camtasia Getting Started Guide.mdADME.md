@@ -86,7 +86,7 @@ If you wish to uninstall any previous versions of Camtasia, follow the steps [he
 | 1 | Select an area to record. |
 |2 | Choose if you want to record web camera footage.  | 
 |3 | Choose your audio sources. | 
-|4 | Click the record button to start recording.  | 
+|4 | Click the record button to start recording the screen.  | 
 ### Record Audio in Camtasia Recorder
 ![audio recorder](https://user-images.githubusercontent.com/115913719/198846111-30bace7c-2413-4a1f-af1d-284e241cd778.PNG)
 
